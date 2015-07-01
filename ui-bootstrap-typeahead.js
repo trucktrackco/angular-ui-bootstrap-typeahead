@@ -1,10 +1,3 @@
-/*
- * angular-ui-bootstrap
- * http://angular-ui.github.io/bootstrap/
-
- * Version: 0.12.0 - 2014-12-17
- * License: MIT
- */
 angular.module("ui.bootstrap", ["ui.bootstrap.position", "ui.bootstrap.bindHtml", "ui.bootstrap.typeahead"]);
 angular.module('ui.bootstrap.position', [])
 

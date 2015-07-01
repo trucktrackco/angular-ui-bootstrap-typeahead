@@ -1,5 +1,5 @@
 {
-  "name": "angular-ui-bootstrap-typeahead-tt",
+  "name": "tt-angular-ui-bootstrap-typeahead",
   "version": "0.12.0",
   "authors": [
     "trucktrack"
@@ -21,5 +21,9 @@
     "test",
     "tests",
     "package.json"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trucktrackco/angular-ui-bootstrap-typeahead.git"
+  }
 }
