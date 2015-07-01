@@ -1,10 +1,10 @@
 {
-  "name": "angular-ui-bootstrap-typeahead",
+  "name": "tt-angular-ui-bootstrap-typeahead",
   "version": "0.12.0",
   "authors": [
-    "Mark Fayngersh <mark.fayngersh@gmail.com>"
+    "trucktrack"
   ],
-  "description": "Angular UI Bootstrap Typeahead",
+  "description": "TruckTrack - Angular UI Bootstrap Typeahead",
   "main": "./ui-bootstrap-typeahead-tpls.js",
   "keywords": [
     "angular",
@@ -13,5 +13,13 @@
     "typeahead"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/CrowdTwist/angular-ui-bootstrap-typeahead"
+  "homepage": "https://github.com/trucktrackco/angular-ui-bootstrap-typeahead",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json"
+  ]
 }
